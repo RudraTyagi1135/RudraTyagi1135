@@ -6,6 +6,12 @@
 ML Engineering • MLOps • Cloud AI Systems
 </h2>
 
+<p align="center">
+Building production-oriented machine learning systems focused on APIs, deployment workflows, automation, and real-world AI applications using Python, FastAPI, Docker, and AWS.
+</p>
+
+---
+
 <h2 align="center">Core Technologies</h2>
 
 <p align="center">
@@ -18,7 +24,7 @@ ML Engineering • MLOps • Cloud AI Systems
 </p>
 
 <p align="center">
-I build production-oriented machine learning systems focused on deployment, APIs, automation, and real-world AI workflows using Python, FastAPI, Docker, and AWS.
+  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,aws,mongodb,git,github,vscode" />
 </p>
 
 ---
@@ -33,8 +39,6 @@ Machine Learning Systems • FastAPI Services • MLOps Workflows • Cloud Depl
 
 <h2 align="center">Tech Stack</h2>
 
-<p align="center">
-
 ```python
 Languages    : Python, SQL
 ML           : scikit-learn, XGBoost, SHAP
@@ -44,8 +48,6 @@ DevOps       : Docker, GitHub Actions
 Databases    : MongoDB, MySQL
 GenAI        : LangChain, ChromaDB, RAG Pipelines
 ```
-
-</p>
 
 ---
 
@@ -63,19 +65,40 @@ GenAI        : LangChain, ChromaDB, RAG Pipelines
 
 ---
 
-
-<h2 align="center">GitHub Activity</h2>
+<h2 align="center">Featured Repositories</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RudraTyagi1135&theme=tokyonight&hide_border=true"/>
+  <a href="https://github.com/RudraTyagi1135/phishing-detection-mlops-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RudraTyagi1135&repo=phishing-detection-mlops-system&theme=tokyonight&hide_border=true"/>
+  </a>
+
+  <a href="https://github.com/RudraTyagi1135/AutoCare">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RudraTyagi1135&repo=AutoCare&theme=tokyonight&hide_border=true"/>
+  </a>
 </p>
 
-
+---
 
 <h2 align="center">Currently Exploring</h2>
 
 <p align="center">
 Production ML architecture • scalable inference systems • deployment engineering • cloud-native AI workflows • MLOps infrastructure
+</p>
+
+---
+
+<h2 align="center">Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RudraTyagi1135/RudraTyagi1135/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+<h2 align="center">GitHub Activity</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RudraTyagi1135&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
