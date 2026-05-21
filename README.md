@@ -10,106 +10,93 @@ ML Engineering • MLOps • Cloud AI Systems
 Building production-oriented machine learning systems focused on APIs, deployment workflows, automation, and real-world AI applications using Python, FastAPI, Docker, and AWS.
 </p>
 
----
+<br>
 
 <h2 align="center">Core Technologies</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
-</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,docker,aws,mongodb,git,github,vscode" />
 </p>
 
----
-
-<h2 align="center">What I Work On</h2>
-
-<p align="center">
-Machine Learning Systems • FastAPI Services • MLOps Workflows • Cloud Deployment • Explainable AI • ETL Pipelines • Applied AI Engineering
-</p>
-
----
-
-<h2 align="center">Tech Stack</h2>
-
-```python
-Languages    : Python, SQL
-ML           : scikit-learn, XGBoost, SHAP
-Backend      : FastAPI, Flask, REST APIs
-Cloud        : AWS EC2, S3, ECR
-DevOps       : Docker, GitHub Actions
-Databases    : MongoDB, MySQL
-GenAI        : LangChain, ChromaDB, RAG Pipelines
-```
-
----
+<br>
 
 <h2 align="center">Featured Projects</h2>
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-| Project | Description |
-|---|---|
-| **AutoCare** | Built a modular clinical risk prediction system using XGBoost, SHAP explainability, MongoDB, and FastAPI with support for multi-disease inference pipelines and AWS-oriented deployment workflows. |
-| **Phishing Detection MLOps System** | Developed a production-oriented phishing detection pipeline with FastAPI, MLflow, Docker, MongoDB, and automated ML workflow components. |
-| **Real Estate Intelligence System** | Created an analytics platform for real estate trend analysis, interactive dashboards, and business intelligence workflows using Python and visualization frameworks. |
+### AutoCare
+Built a modular clinical risk prediction system using XGBoost, SHAP explainability, MongoDB, and FastAPI with support for multi-disease inference pipelines and AWS-oriented deployment workflows.
 
-</div>
+</td>
 
----
+<td width="50%">
+
+### Phishing Detection MLOps System
+Developed a production-oriented phishing detection pipeline with FastAPI, MLflow, Docker, MongoDB, and automated ML workflow components.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Real Estate Intelligence System
+Created an analytics platform for real estate trend analysis, interactive dashboards, and business intelligence workflows using Python and visualization frameworks.
+
+</td>
+
+<td width="50%">
+
+### ML Engineering Practice Labs
+Collection of structured ML engineering, preprocessing, feature engineering, API development, and deployment practice workflows.
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <h2 align="center">Featured Repositories</h2>
 
 <p align="center">
-  <a href="https://github.com/RudraTyagi1135/phishing-detection-mlops-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RudraTyagi1135&repo=phishing-detection-mlops-system&theme=tokyonight&hide_border=true"/>
+  <a href="https://github.com/RudraTyagi1135/PHISHING-DETECTION-MLOPS-SYSTEM">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RudraTyagi1135&repo=PHISHING-DETECTION-MLOPS-SYSTEM&theme=tokyonight&hide_border=true" />
   </a>
 
   <a href="https://github.com/RudraTyagi1135/AutoCare">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RudraTyagi1135&repo=AutoCare&theme=tokyonight&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RudraTyagi1135&repo=AutoCare&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
----
-
-<h2 align="center">Currently Exploring</h2>
-
 <p align="center">
-Production ML architecture • scalable inference systems • deployment engineering • cloud-native AI workflows • MLOps infrastructure
+  <a href="https://github.com/RudraTyagi1135/GURGAON-REAL-ESTATE-INTELLIGENCE-SYSTEM">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RudraTyagi1135&repo=GURGAON-REAL-ESTATE-INTELLIGENCE-SYSTEM&theme=tokyonight&hide_border=true" />
+  </a>
+
+  <a href="https://github.com/RudraTyagi1135/FAST-API-TUTORIALS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RudraTyagi1135&repo=FAST-API-TUTORIALS&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
 
----
-
-<h2 align="center">Contribution Graph</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RudraTyagi1135/RudraTyagi1135/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
+<br>
 
 <h2 align="center">GitHub Activity</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=RudraTyagi1135&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=RudraTyagi1135&theme=tokyonight&hide_border=true" />
 </p>
 
----
+<br>
 
-<h2 align="center">Current Goal</h2>
+<h2 align="center">Currently Building</h2>
 
 <p align="center">
-Building strong ML engineering and MLOps foundations for global AI roles and MS in AI/ML Systems (Fall 2027).
+Clinical AI systems • deployment-oriented ML workflows • FastAPI services • cloud-native ML applications • MLOps pipelines
 </p>
 
----
+<br>
 
 <h2 align="center">Connect</h2>
 
