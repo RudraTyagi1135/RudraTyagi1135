@@ -1,145 +1,93 @@
-# Rudra Tyagi
+<h1 align="center">Rudra Tyagi</h1>
 
-### Machine Learning Engineer • MLOps Engineer • Cloud-Native AI Systems
+<h3 align="center">
+Machine Learning Engineer • MLOps • Cloud-Native AI Systems
+</h3>
 
-I build production-oriented machine learning systems focused on scalable inference pipelines, cloud deployment workflows, explainable AI, and MLOps infrastructure.
-
-My primary interests include:
-- Machine Learning Systems Engineering
-- MLOps & Deployment Pipelines
-- Cloud-Native AI Infrastructure
-- FastAPI-Based ML Services
-- Explainable AI Systems
-- AWS ML Engineering
+<p align="center">
+Building scalable ML systems, deployment pipelines, and AI infrastructure using Python, FastAPI, Docker, and AWS.
+</p>
 
 ---
 
-# Current Focus
+## About Me
 
-- Building production-grade ML systems
-- Designing scalable inference pipelines
-- Developing cloud-native AI applications using AWS
-- Learning advanced MLOps workflows
+- Building production-oriented ML systems
+- Focused on MLOps and cloud-native AI infrastructure
+- Interested in scalable inference systems and deployment engineering
 - Preparing for MS in AI/ML Systems (Fall 2027)
 
 ---
 
-# Featured Projects
+## Core Technologies
 
-## AutoCare — AI-Powered Clinical Decision Support System
+### Machine Learning
+`Python` `scikit-learn` `XGBoost` `SHAP` `Pandas` `NumPy`
 
-Cloud-native healthcare AI system for multi-disease risk prediction using XGBoost, SHAP explainability, modular ML pipelines, MongoDB, and AWS-oriented deployment workflows.
+### Backend & APIs
+`FastAPI` `Flask` `REST APIs` `Pydantic` `WebSocket`
 
-### Core Features
-- Multi-disease prediction (Diabetes, Heart Disease, Stroke)
-- SHAP-based explainability
-- Automated preprocessing pipelines
-- PDF clinical report generation
-- Doctor/Patient workflow modes
-- MongoDB prediction history
-- FastAPI/Flask backend integration
-- AWS deployment architecture
+### Cloud & DevOps
+`AWS EC2` `AWS S3` `AWS ECR` `Docker` `GitHub Actions`
 
----
+### Data Engineering
+`MongoDB` `SQL` `ETL Pipelines` `Feature Engineering`
 
-## Phishing Detection MLOps System
-
-Production-oriented phishing detection pipeline using FastAPI, MongoDB, MLflow, Docker, and AWS-compatible deployment workflows.
-
-### Core Features
-- Modular ML pipeline architecture
-- Schema validation + drift detection
-- MLflow experiment tracking
-- Dockerized inference service
-- MongoDB-backed ingestion
-- AWS deployment workflow support
+### GenAI & NLP
+`LangChain` `RAG Pipelines` `ChromaDB` `Gemini API`
 
 ---
 
-# Technical Stack
+## Featured Projects
 
-## Machine Learning
-- Python
-- scikit-learn
-- XGBoost
-- SHAP
-- Pandas
-- NumPy
+### AutoCare
+Cloud-native explainable healthcare AI system for multi-disease risk prediction using modular ML pipelines, SHAP explainability, MongoDB, and AWS-oriented deployment workflows.
 
-## Backend & APIs
-- FastAPI
-- Flask
-- REST APIs
-- WebSocket
-- Pydantic
+### Phishing Detection MLOps System
+Production-oriented phishing detection pipeline using FastAPI, MLflow, Docker, MongoDB, and AWS-compatible deployment workflows.
 
-## Cloud & DevOps
-- AWS EC2
-- AWS S3
-- AWS ECR
-- Docker
-- GitHub Actions
-- Boto3
-
-## Data Engineering
-- MongoDB
-- SQL
-- ETL Pipelines
-- Data Validation
-- Feature Engineering
-
-## GenAI & NLP
-- LangChain
-- RAG Pipelines
-- ChromaDB
-- Gemini API
-- Whisper
+### Real Estate Intelligence System
+Analytics platform for real estate trend analysis, visualization, and business intelligence workflows.
 
 ---
 
-# Engineering Interests
+## Engineering Interests
 
-- ML Infrastructure Engineering
-- Inference Optimization
-- Cloud Deployment Systems
-- Explainable AI
+- ML Systems Engineering
 - MLOps Architecture
-- Distributed AI Systems
+- Cloud AI Infrastructure
+- Explainable AI
+- Inference Optimization
 - AI Platform Engineering
 
 ---
 
-# Professional Experience
+## Experience
 
-## AI/ML Intern — GeoTechnosoft Pvt. Ltd.
+### AI/ML Intern — GeoTechnosoft Pvt. Ltd.
 
-Worked on production-oriented AI systems involving:
+Worked on:
 - RAG pipelines
 - real-time voice systems
 - Streamlit analytics platforms
 - FastAPI services
-- cloud-native deployment workflows
-- vector databases and contextual retrieval systems
+- cloud-native AI workflows
 
 ---
 
-# Education
+## GitHub Stats
 
-Bachelor of Technology in Computer Science Engineering  
-Meerut Institute of Engineering and Technology  
-Graduating: May 2026
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RudraTyagi1135&show_icons=true&theme=tokyonight" />
+</p>
 
-Target: MS in AI/ML Systems — Fall 2027
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RudraTyagi1135&theme=tokyonight" />
+</p>
 
 ---
 
-# Connect
+## Connect
 
 - LinkedIn: www.linkedin.com/in/rudratyagi
 - GitHub: github.com/RudraTyagi1135
-
----
-
-# Profile Philosophy
-
-Focused on building engineering-oriented AI systems rather than notebook-only machine learning projects.
