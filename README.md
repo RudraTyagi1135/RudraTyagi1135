@@ -58,30 +58,6 @@ Collection of structured ML engineering, preprocessing, feature engineering, API
 
 <br>
 
-<h2 align="center">Featured Repositories</h2>
-
-<p align="center">
-  <a href="https://github.com/RudraTyagi1135/PHISHING_DETECTION_MLOPS_SYSTEM">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RudraTyagi1135&repo=PHISHING_DETECTION_MLOPS_SYSTEM&theme=tokyonight&hide_border=true" />
-  </a>
-
-  <a href="https://github.com/RudraTyagi1135/AutoCare">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RudraTyagi1135&repo=AutoCare&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/RudraTyagi1135/GURGAON_REAL_ESTATE_INTELLIGENCE_SYSTEM">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RudraTyagi1135&repo=GURGAON_REAL_ESTATE_INTELLIGENCE_SYSTEM&theme=tokyonight&hide_border=true" />
-  </a>
-
-  <a href="https://github.com/RudraTyagi1135/FAST_API_TUTORIALS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RudraTyagi1135&repo=FAST_API_TUTORIALS&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<br>
-
 <h2 align="center">GitHub Activity</h2>
 
 <p align="center">
