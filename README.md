@@ -61,8 +61,8 @@ Collection of structured ML engineering, preprocessing, feature engineering, API
 <h2 align="center">Featured Repositories</h2>
 
 <p align="center">
-  <a href="https://github.com/RudraTyagi1135/PHISHING-DETECTION-MLOPS-SYSTEM">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RudraTyagi1135&repo=PHISHING-DETECTION-MLOPS-SYSTEM&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/RudraTyagi1135/PHISHING_DETECTION_MLOPS_SYSTEM">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RudraTyagi1135&repo=PHISHING_DETECTION_MLOPS_SYSTEM&theme=tokyonight&hide_border=true" />
   </a>
 
   <a href="https://github.com/RudraTyagi1135/AutoCare">
@@ -71,12 +71,12 @@ Collection of structured ML engineering, preprocessing, feature engineering, API
 </p>
 
 <p align="center">
-  <a href="https://github.com/RudraTyagi1135/GURGAON-REAL-ESTATE-INTELLIGENCE-SYSTEM">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RudraTyagi1135&repo=GURGAON-REAL-ESTATE-INTELLIGENCE-SYSTEM&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/RudraTyagi1135/GURGAON_REAL_ESTATE_INTELLIGENCE_SYSTEM">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RudraTyagi1135&repo=GURGAON_REAL_ESTATE_INTELLIGENCE_SYSTEM&theme=tokyonight&hide_border=true" />
   </a>
 
-  <a href="https://github.com/RudraTyagi1135/FAST-API-TUTORIALS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RudraTyagi1135&repo=FAST-API-TUTORIALS&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/RudraTyagi1135/FAST_API_TUTORIALS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RudraTyagi1135&repo=FAST_API_TUTORIALS&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
