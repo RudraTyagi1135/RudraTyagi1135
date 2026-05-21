@@ -6,6 +6,17 @@
 ML Engineering • MLOps • Cloud AI Systems
 </h2>
 
+<h2 align="center">Core Technologies</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
+</p>
+
 <p align="center">
 I build production-oriented machine learning systems focused on deployment, APIs, automation, and real-world AI workflows using Python, FastAPI, Docker, and AWS.
 </p>
@@ -51,6 +62,15 @@ GenAI        : LangChain, ChromaDB, RAG Pipelines
 </div>
 
 ---
+
+
+<h2 align="center">GitHub Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RudraTyagi1135&theme=tokyonight&hide_border=true"/>
+</p>
+
+
 
 <h2 align="center">Currently Exploring</h2>
 
