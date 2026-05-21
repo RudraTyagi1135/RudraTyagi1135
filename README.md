@@ -1,50 +1,48 @@
-<h1 align="center">Rudra Tyagi</h1>
+<p align="center">
+  <img src="YOUR_BANNER_IMAGE_LINK" alt="Rudra Tyagi Banner" width="100%" />
+</p>
 
-<h3 align="center">
-Machine Learning Engineer • MLOps • Cloud-Native AI Systems
-</h3>
+<h2 align="center">
+ML Systems • MLOps • Cloud AI Infrastructure
+</h2>
 
 <p align="center">
-Building scalable ML systems, deployment pipelines, and AI infrastructure using Python, FastAPI, Docker, and AWS.
+Building scalable ML systems, FastAPI services, deployment pipelines, and cloud-native AI infrastructure using Python, Docker, and AWS.
 </p>
 
 ---
 
-## About Me
+## Tech Stack
 
-- Building production-oriented ML systems
-- Focused on MLOps and cloud-native AI infrastructure
-- Interested in scalable inference systems and deployment engineering
-- Preparing for MS in AI/ML Systems (Fall 2027)
-
----
-
-## Core Technologies
-
-### Machine Learning
-`Python` `scikit-learn` `XGBoost` `SHAP` `Pandas` `NumPy`
-
-### Backend & APIs
-`FastAPI` `Flask` `REST APIs` `Pydantic` `WebSocket`
-
-### Cloud & DevOps
-`AWS EC2` `AWS S3` `AWS ECR` `Docker` `GitHub Actions`
-
-### Data Engineering
-`MongoDB` `SQL` `ETL Pipelines` `Feature Engineering`
-
-### GenAI & NLP
-`LangChain` `RAG Pipelines` `ChromaDB` `Gemini API`
+```python
+Languages    : Python, SQL
+ML Stack     : scikit-learn, XGBoost, SHAP
+Backend      : FastAPI, Flask, REST APIs
+Cloud        : AWS EC2, S3, ECR
+DevOps       : Docker, GitHub Actions
+Databases    : MongoDB, MySQL
+GenAI        : LangChain, ChromaDB, RAG Pipelines
+```
 
 ---
 
-## Featured Projects
+## Current Focus
+
+- Production-grade ML systems
+- MLOps workflows
+- Cloud-native AI deployment
+- Scalable inference pipelines
+- MS in AI/ML Systems (Fall 2027)
+
+---
+
+## Flagship Projects
 
 ### AutoCare
-Cloud-native explainable healthcare AI system for multi-disease risk prediction using modular ML pipelines, SHAP explainability, MongoDB, and AWS-oriented deployment workflows.
+Cloud-native explainable clinical AI system for multi-disease risk prediction using modular ML pipelines, SHAP explainability, MongoDB, and AWS-oriented deployment workflows.
 
 ### Phishing Detection MLOps System
-Production-oriented phishing detection pipeline using FastAPI, MLflow, Docker, MongoDB, and AWS-compatible deployment workflows.
+Production-oriented phishing detection pipeline using FastAPI, MLflow, Docker, MongoDB, and AWS-compatible infrastructure.
 
 ### Real Estate Intelligence System
 Analytics platform for real estate trend analysis, visualization, and business intelligence workflows.
@@ -53,41 +51,33 @@ Analytics platform for real estate trend analysis, visualization, and business i
 
 ## Engineering Interests
 
-- ML Systems Engineering
+- ML Infrastructure Engineering
 - MLOps Architecture
-- Cloud AI Infrastructure
-- Explainable AI
-- Inference Optimization
+- Explainable AI Systems
 - AI Platform Engineering
-
----
-
-## Experience
-
-### AI/ML Intern — GeoTechnosoft Pvt. Ltd.
-
-Worked on:
-- RAG pipelines
-- real-time voice systems
-- Streamlit analytics platforms
-- FastAPI services
-- cloud-native AI workflows
+- Inference Optimization
+- Distributed AI Systems
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RudraTyagi1135&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RudraTyagi1135&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RudraTyagi1135&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudraTyagi1135&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## Connect
 
-- LinkedIn: www.linkedin.com/in/rudratyagi
-- GitHub: github.com/RudraTyagi1135
+<p align="left">
+  <a href="https://www.linkedin.com/in/rudratyagi/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="https://github.com/RudraTyagi1135">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
