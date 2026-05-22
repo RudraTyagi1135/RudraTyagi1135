@@ -7,34 +7,58 @@ ML Engineering • MLOps • Cloud AI Systems
 </h2>
 
 <p align="center">
-Building production-oriented machine learning systems focused on APIs, deployment workflows, automation, and real-world AI applications using Python, FastAPI, Docker, and AWS.
+Building deployment-oriented machine learning systems, analytics platforms, and cloud-native AI workflows using Python, FastAPI, Docker, and AWS.
 </p>
-
-<br>
-
-<h2 align="center">Core Technologies</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,aws,mongodb,git,github,vscode" />
+  <a href="https://www.linkedin.com/in/rudratyagi/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rudra%20Tyagi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:rudratyagi1135@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/RudraTyagi1135">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 <br>
 
-<h2 align="center">Featured Projects</h2>
+<h2 align="center">Core Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,aws,mongodb,mysql,git,github,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
+</p>
+
+<br>
+
+<h2 align="center">Featured Engineering Projects</h2>
 
 <table>
 <tr>
 <td width="50%">
 
-### AutoCare
-Built a modular clinical risk prediction system using XGBoost, SHAP explainability, MongoDB, and FastAPI with support for multi-disease inference pipelines and AWS-oriented deployment workflows.
+### AutoCare *(Private)*
+
+Explainable clinical AI system for multi-disease risk prediction using modular ML pipelines, SHAP explainability, MongoDB integration, and deployment-oriented architecture workflows.
 
 </td>
 
 <td width="50%">
 
 ### Phishing Detection MLOps System
-Developed a production-oriented phishing detection pipeline with FastAPI, MLflow, Docker, MongoDB, and automated ML workflow components.
+
+Production-oriented phishing detection pipeline using FastAPI, MLflow, Docker, MongoDB, and ML workflow automation components.
 
 </td>
 </tr>
@@ -42,15 +66,35 @@ Developed a production-oriented phishing detection pipeline with FastAPI, MLflow
 <tr>
 <td width="50%">
 
-### Real Estate Intelligence System
-Created an analytics platform for real estate trend analysis, interactive dashboards, and business intelligence workflows using Python and visualization frameworks.
+### Real Estate Intelligence Platform
+
+End-to-end analytics and recommendation platform for Gurgaon real estate using ML pipelines, Streamlit dashboards, recommendation systems, and feature-engineered workflows.
 
 </td>
 
 <td width="50%">
 
-### ML Engineering Practice Labs
-Collection of structured ML engineering, preprocessing, feature engineering, API development, and deployment practice workflows.
+### AWS RDS ETL Pipeline Analytics
+
+Cloud-oriented ETL and analytics workflow integrating AWS RDS pipelines, structured data processing, and analytics engineering practices.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Flight Analytics System
+
+Interactive SQL + Streamlit analytics platform for airline data exploration, visualization, and business intelligence workflows.
+
+</td>
+
+<td width="50%">
+
+### India Geo Analytics Dashboard
+
+Interactive analytics dashboard for geographic and regional data visualization using Python-based analytics and dashboard engineering workflows.
 
 </td>
 </tr>
@@ -58,10 +102,26 @@ Collection of structured ML engineering, preprocessing, feature engineering, API
 
 <br>
 
+<h2 align="center">Current Focus</h2>
+
+<p align="center">
+ML Systems Engineering • MLOps Workflows • FastAPI Services • Deployment Pipelines • Cloud AI Infrastructure • Applied Machine Learning
+</p>
+
+<br>
+
+<h2 align="center">Engineering Areas</h2>
+
+<p align="center">
+Machine Learning Pipelines • Feature Engineering • Analytics Systems • NLP Applications • ETL Workflows • Inference Systems • Data Processing • Cloud-Native ML
+</p>
+
+<br>
+
 <h2 align="center">GitHub Activity</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=RudraTyagi1135&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=RudraTyagi1135&theme=tokyonight&hide_border=true"/>
 </p>
 
 <br>
@@ -69,7 +129,7 @@ Collection of structured ML engineering, preprocessing, feature engineering, API
 <h2 align="center">Currently Building</h2>
 
 <p align="center">
-Clinical AI systems • deployment-oriented ML workflows • FastAPI services • cloud-native ML applications • MLOps pipelines
+Production-oriented ML systems, scalable analytics workflows, FastAPI-based inference services, and cloud-native AI deployment pipelines.
 </p>
 
 <br>
